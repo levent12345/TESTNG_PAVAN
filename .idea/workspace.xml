@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69ef81ca-9920-4f63-b60e-bacdb2964a57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eef1e3V1Q7JMuzt56ZqeJMnZjT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scroll" />
+      <recent name="PageObjectModel" />
+      <recent name="seleniumEX" />
+      <recent name="Examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.scroll1 (1)">
+    <configuration name="RegTest2 (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TESTNG_PAVAN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjectModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjectModel" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectModel.RegTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegTest2 (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TESTNG_PAVAN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjectModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjectModel" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectModel.RegTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <module name="TESTNG_PAVAN" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scroll1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TESTNG_PAVAN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scroll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scroll" />
+      <option name="MAIN_CLASS_NAME" value="scroll.scroll1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scroll1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TESTNG_PAVAN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scroll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scroll" />
+      <option name="MAIN_CLASS_NAME" value="scroll.scroll1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scroll1.verifyFlightPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TESTNG_PAVAN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scroll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scroll" />
+      <option name="MAIN_CLASS_NAME" value="scroll.scroll1" />
+      <option name="METHOD_NAME" value="verifyFlightPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.RegTest2 (3)" />
+      <item itemvalue="TestNG.RegTest2 (4)" />
+      <item itemvalue="TestNG.scroll1" />
+      <item itemvalue="TestNG.scroll1.verifyFlightPage" />
+      <item itemvalue="TestNG.scroll1 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.scroll1 (1)" />
+        <item itemvalue="TestNG.scroll1.verifyFlightPage" />
+        <item itemvalue="TestNG.scroll1" />
+        <item itemvalue="TestNG.RegTest2 (4)" />
+        <item itemvalue="TestNG.RegTest2 (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ef81ca-9920-4f63-b60e-bacdb2964a57" name="Default Changelist" comment="" />
+      <created>1594686765747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594686765747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="205" key="#&lt;default&gt;" timestamp="1594688908580">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="636" y="205" key="#&lt;default&gt;/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594688908580" />
+    <state x="636" y="205" key="#&lt;default&gt;_(1)" timestamp="1594689060913">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="636" y="205" key="#&lt;default&gt;_(1)/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594689060913" />
+    <state x="561" y="218" key="#Plugins" timestamp="1594687799913">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="561" y="218" key="#Plugins/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594687799913" />
+    <state x="560" y="218" key="#Project_Structure" timestamp="1594688838181">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="218" key="#Project_Structure/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594688838181" />
+    <state x="426" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594689138817">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="426" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594689138817" />
+    <state x="698" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594689135033">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="698" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594689135033" />
+    <state width="1482" height="323" key="GridCell.Tab.0.bottom" timestamp="1595020335346">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1482" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1595020335346" />
+    <state width="1482" height="323" key="GridCell.Tab.0.center" timestamp="1595020335344">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1482" height="323" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1595020335344" />
+    <state width="1482" height="323" key="GridCell.Tab.0.left" timestamp="1595020335344">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1482" height="323" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1595020335344" />
+    <state width="1482" height="323" key="GridCell.Tab.0.right" timestamp="1595020335345">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1482" height="323" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1595020335345" />
+    <state x="449" y="134" key="SettingsEditor" timestamp="1594687750562">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="449" y="134" key="SettingsEditor/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594687750562" />
+    <state x="418" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1595020495275">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="418" y="386" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1595020495275" />
+    <state x="305" y="115" key="new project wizard" timestamp="1595027688974">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="305" y="115" key="new project wizard/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1595027688974" />
+    <state x="626" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1594689113369">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="626" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1594689113369" />
+  </component>
+</project>

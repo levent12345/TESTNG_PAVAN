@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="2">
+
+    <parameter name="browser" value="chrome"></parameter>
+    <parameter name="url" value="https://opensource-demo.orangehrmlive.com/"></parameter>
+    <test name="parametertest1">
+        <classes>
+            <class name="pages.param">
+            </class>
+        </classes>
+    </test>
+    <parameter name="browser" value="firefox"></parameter>
+    <parameter name="url" value="https://opensource-demo.orangehrmlive.com/"></parameter>
+    <test name="parametertest2">
+        <classes>
+            <class name="pages.param">
+            </class>
+        </classes>
+    </test>
+</suite>
